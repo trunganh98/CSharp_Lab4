@@ -1,0 +1,2 @@
+C:\Users\ASUS\source\repos\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
